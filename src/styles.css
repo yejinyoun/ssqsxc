@@ -1,0 +1,18 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  margin: 0;
+}
+
+.container {
+  border: 0px;
+  margin:0;
+}
+
